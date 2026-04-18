@@ -4,7 +4,7 @@ const CACHE_NAME = 'heyflix-v2';
 const ASSETS = [
 '/Eclock/',
 '/Eclock/index.html',
-'/Eclock/image.png'
+'/Eclock/efgdial.png'
 ];
 
 // Install: cache app shell
