@@ -2,10 +2,9 @@ const CACHE_NAME = 'heyflix-v2';
 
 // Files to cache (adjust if needed)
 const ASSETS = [
-'/repository name/',
-'/repository name/index.html',
-'/repository name/image.png',
-'/repository name/image2.png'
+'/Eclock/',
+'/Eclock/index.html',
+'/Eclock/image.png'
 ];
 
 // Install: cache app shell
