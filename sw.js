@@ -1,4 +1,4 @@
-const CACHE_NAME = 'heyflix-v2';
+const CACHE_NAME = 'Eclock';
 
 // Files to cache (adjust if needed)
 const ASSETS = [
@@ -41,7 +41,7 @@ return networkResponse;
 });
 });
 }).catch(() => {
-return caches.match('/efg-movie-hub/index.html');
+return caches.match('/Eclock/index.html');
 })
 );
 });
